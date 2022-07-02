@@ -14,7 +14,7 @@
 	<name>portfolio Api</name>
 	<description>Rest ful Api para trabajr sobre los datos del portfolio</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
